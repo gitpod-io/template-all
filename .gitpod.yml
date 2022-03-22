@@ -2,4 +2,4 @@ additionalRepositories:
   - url: https://github.com/gitpod-io/template-sveltejs
   - url: https://github.com/gitpod-io/template-sveltekit
 
-workspaceLocation: .code-workspace
+workspaceLocation: ./template-all/.code-workspace

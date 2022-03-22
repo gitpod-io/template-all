@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "./template-sveltejs"
+			"path": "../template-sveltejs"
 		},
 		{
-			"path": "./template-sveltekit"
+			"path": "../template-sveltekit"
 		}
 	],
 	"settings": {}
