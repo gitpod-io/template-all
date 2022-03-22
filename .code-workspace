@@ -1,0 +1,12 @@
+
+{
+	"folders": [
+		{
+			"path": "./template-sveltejs"
+		},
+		{
+			"path": "./template-sveltekit"
+		}
+	],
+	"settings": {}
+}
